@@ -109,7 +109,7 @@ else:
 ```
 
 <h2>Sample Input and Output:</h2>
-![img](https://github.com/user-attachments/assets/f1af1679-1836-4978-bd2a-254f884be982)
+![img]https://github.com/user-attachments/assets/f1af1679-1836-4978-bd2a-254f884be982
 
 
 <h2>Result:</h2>
