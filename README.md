@@ -109,7 +109,7 @@ else:
 ```
 
 <h2>Sample Input and Output:</h2>
-![Op1-ai8](https://github.com/user-attachments/assets/deb31c6a-9847-4299-bdba-086529ba1175)
+![image](https://github.com/user-attachments/assets/47e82808-ba77-4506-a3f8-cc29107c4080)
 
 
 <h2>Result:</h2>
