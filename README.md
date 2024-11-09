@@ -109,8 +109,9 @@ else:
 ```
 
 <h2>Sample Input and Output:</h2>
-![Screenshot 2024-11-09 021933](https://github.com/user-attachments/assets/1306cb58-7854-4f8f-82fb-067657231597)
-
+SEND = 9567<br>
+MORE = 1085<br>
+MONEY = 10652<br>
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
